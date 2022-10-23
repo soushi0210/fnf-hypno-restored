@@ -1,7 +1,4 @@
    function onCreate()
-      makeLuaText('watermark', " PORTEADO POR | Glass o Water                                                      FOREVER ENGINE V0.5.2H ", 0, 2, 700); -- You can edit the created by Prisma Text just dont change anything else
-         setTextSize('watermark', 20);
-         addLuaText('watermark');
    -- background shit
    makeLuaSprite('table','gamble/table',-1000,-420)
    setScrollFactor('table', 1.0, 1.0)

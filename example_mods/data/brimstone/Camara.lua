@@ -17,19 +17,19 @@ function onUpdate()
 	end
     if followchars == true then
         if mustHitSection == true then
-            if getProperty('dad.animation.curAnim.name') == 'singLEF' then
+            if getProperty('dad.animation.curAnim.name') == 'singLEFT' then
                 triggerEvent('Camera Follow Pos',xx+ofs,yy)
             end
-            if getProperty('dad.animation.curAnim.name') == 'singRIGH' then
+            if getProperty('dad.animation.curAnim.name') == 'singRIGHT' then
                 triggerEvent('Camera Follow Pos',xx,yy-ofs)
             end
-            if getProperty('dad.animation.curAnim.name') == 'singP' then
+            if getProperty('dad.animation.curAnim.name') == 'singUP' then
                 triggerEvent('Camera Follow Pos',xx,yy+ofs)
             end
-            if getProperty('dad.animation.curAnim.name') == 'singDO' then
+            if getProperty('dad.animation.curAnim.name') == 'singDOWN' then
                 triggerEvent('Camera Follow Pos',xx-ofs,yy)
             end
-            if getProperty('dad.animation.curAnim.name') == 'singD' then
+            if getProperty('dad.animation.curAnim.name') == 'singDOWN-alt' then
                 triggerEvent('Camera Follow Pos',xx,yy+ofs)
             end
             if getProperty('dad.animation.curAnim.name') == 'idle-alt' then

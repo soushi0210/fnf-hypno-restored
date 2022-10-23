@@ -1,56 +1,56 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				37,
-				11
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				1596,
+				721
+			],
 			"anim": "firstDeath",
-			"indices": [],
-			"name": "BF dies"
+			"fps": 24,
+			"name": "Perez-sen",
+			"indices": []
 		},
 		{
-			"offsets": [
-				37,
-				5
-			],
 			"loop": true,
-			"fps": 24,
+			"offsets": [
+				1596,
+				721
+			],
 			"anim": "deathLoop",
-			"indices": [],
-			"name": "BF Dead Loop"
+			"fps": 24,
+			"name": "Perez-sen0032",
+			"indices": []
 		},
 		{
-			"offsets": [
-				37,
-				69
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				1596,
+				721
+			],
 			"anim": "deathConfirm",
-			"indices": [],
-			"name": "BF Dead confirm"
+			"fps": 24,
+			"name": "Perez-sen0032",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND_DEAD",
+	"image": "characters/perez_senkill",
 	"position": [
-		0,
-		350
+		1580,
+		1220
 	],
-	"healthicon": "bf",
+	"healthicon": "gf",
 	"flip_x": true,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		165,
+		0,
+		77
 	],
 	"camera_position": [
-		0,
-		0
+		2710,
+		50
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 1.1
 }

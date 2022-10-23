@@ -33,6 +33,7 @@ import flixel.math.FlxMath;
 import flixel.util.FlxSave;
 import flixel.addons.transition.FlxTransitionableState;
 import flixel.system.FlxAssets.FlxShader;
+import haxe.Json;
 
 #if (!flash && sys)
 import flixel.addons.display.FlxRuntimeShader;
@@ -975,6 +976,12 @@ class FunkinLua {
 
 			if(result == null) Lua.pushnil(lua);
 			return result;
+		});
+		Lua_helper.add_callback(lua, "getDetaFromJSON", function(path:String) {
+			var result = null;
+			result = Json.parse(Paths.getTextFromFile(path));
+			if(result == null) Lua.pushnil(lua);
+			return path;
 		});
 		Lua_helper.add_callback(lua, "setProperty", function(variable:String, value:Dynamic) {
 			var killMe:Array<String> = variable.split('.');

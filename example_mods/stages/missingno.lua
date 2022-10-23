@@ -1,7 +1,4 @@
 function onCreate()
-	makeLuaText('watermark', " PORTEADO POR | PEREZ SEN - XendrackYT                                              FOREVER ENGINE V0.5.2H ", 0, 2, 700); -- You can edit the created by Prisma Text just dont change anything else
-		setTextSize('watermark', 20);
-		addLuaText('watermark');
         
   makeAnimatedLuaSprite('bg','missingno/BG_assets',-800,-350)
   addAnimationByPrefix('bg','idle','Bg Sky',24,true)

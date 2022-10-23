@@ -1,8 +1,4 @@
 function onCreate()
-	makeLuaText('watermark', " PORTEADO POR | PEREZ SEN                                                          FOREVER ENGINE V0.5.2H ", 0, 2, 700); -- You can edit the created by Prisma Text just dont change anything else
-		setTextSize('watermark', 20);
-		addLuaText('watermark');
-
 	makeLuaSprite('Gold_Jumpscare', 'monochrome/Gold_Jumpscare', -155, -34);
 	scaleObject('Gold_Jumpscare', 0.4, 0.37);
 	setProperty('Gold_Jumpscare.antialiasing', false);

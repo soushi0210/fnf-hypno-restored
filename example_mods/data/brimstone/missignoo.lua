@@ -1,11 +1,15 @@
 -- script by ItsCapp don't steal, it's dumb
 
 -- simply, offsets. they're the numbers in the top left of the character editor
-idleoffsets = {'0', '0'} -- I recommend you have your idle offset at 0
-leftoffsets = {'0', '0'}
-downoffsets = {'0', '0'}
-upoffsets = {'0', '0'}
-rightoffsets = {'0', '0'}
+name_of_character = 'ba_missingno_assets'
+
+cooljson = getDetaFromJSON('characters/'..name_of_character)
+
+idleoffsets = cooljson.animations[1].offsets -- I recommend you have your idle offset at 0
+leftoffsets = cooljson.animations[4].offsets
+downoffsets = cooljson.animations[2].offsets
+upoffsets = cooljson.animations[5].offsets
+rightoffsets = cooljson.animations[3].offsets
 
 missleftoffsets = {'-10', '0'}
 missdownoffsets = {'-10', '0'}
@@ -13,11 +17,11 @@ missupoffsets = {'-2', '0'}
 missrightoffsets = {'15', '1'}
 
 -- change all of these to the name of the animation in your character's xml file
-idle_xml_name = 'BA_Missingno_Idle'
-left_xml_name = 'BA_Missingno_Left0'
-down_xml_name = 'BA_Missingno_Down0'
-up_xml_name = 'BA_Missingno_Up0'
-right_xml_name = 'BA_Missingno_Right0'
+idle_xml_name = cooljson.animations[1].name
+left_xml_name = cooljson.animations[4].name
+down_xml_name = cooljson.animations[2].name
+up_xml_name = cooljson.animations[5].name
+right_xml_name = cooljson.animations[3].name
 
 left_miss_xml_name = 'BA_Missingno_Left Miss0'
 down_miss_xml_name = 'BA_Missingno_Down Miss0'
@@ -37,7 +41,6 @@ invisible = true
 
 -- pretty self-explanitory
 name_of_character_xml = 'missingno'
-name_of_character = 'ba_missingno_assets'
 name_of_notetype = 'missingno'
 
 -- if it's set to true the character appears behind the default characters, including gf, watch out for that

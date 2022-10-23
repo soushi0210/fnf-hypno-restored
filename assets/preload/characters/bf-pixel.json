@@ -3,7 +3,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				7,
+				0,
 				0
 			],
 			"fps": 24,
@@ -103,7 +103,7 @@
 	"no_antialiasing": true,
 	"image": "characters/bfPixel",
 	"position": [
-		0,
+		30,
 		350
 	],
 	"healthicon": "bf-pixel",
@@ -114,8 +114,8 @@
 		246
 	],
 	"camera_position": [
-		50,
-		-60
+		500,
+		-200
 	],
 	"sing_duration": 4,
 	"scale": 6
