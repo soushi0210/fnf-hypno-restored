@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="muk menu.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="muk menu instance 10000" x="0" y="0" width="923" height="569" frameX="-3" frameY="0" frameWidth="947" frameHeight="578"/>
+	<SubTexture name="muk menu instance 10001" x="0" y="0" width="923" height="569" frameX="-3" frameY="0" frameWidth="947" frameHeight="578"/>
+	<SubTexture name="muk menu instance 10002" x="0" y="0" width="923" height="569" frameX="-3" frameY="0" frameWidth="947" frameHeight="578"/>
+	<SubTexture name="muk menu instance 10003" x="973" y="0" width="927" height="566" frameX="0" frameY="-3" frameWidth="947" frameHeight="578"/>
+	<SubTexture name="muk menu instance 10004" x="973" y="0" width="927" height="566" frameX="0" frameY="-3" frameWidth="947" frameHeight="578"/>
+	<SubTexture name="muk menu instance 10005" x="973" y="0" width="927" height="566" frameX="0" frameY="-3" frameWidth="947" frameHeight="578"/>
+	<SubTexture name="muk menu instance 10006" x="0" y="619" width="942" height="577" frameX="-5" frameY="-1" frameWidth="947" frameHeight="578"/>
+	<SubTexture name="muk menu instance 10007" x="0" y="619" width="942" height="577" frameX="-5" frameY="-1" frameWidth="947" frameHeight="578"/>
+	<SubTexture name="muk menu instance 10008" x="0" y="619" width="942" height="577" frameX="-5" frameY="-1" frameWidth="947" frameHeight="578"/>
+	<SubTexture name="muk menu instance 10009" x="992" y="619" width="929" height="572" frameX="-15" frameY="0" frameWidth="947" frameHeight="578"/>
+	<SubTexture name="muk menu instance 10010" x="992" y="619" width="929" height="572" frameX="-15" frameY="0" frameWidth="947" frameHeight="578"/>
+	<SubTexture name="muk menu instance 10011" x="992" y="619" width="929" height="572" frameX="-15" frameY="0" frameWidth="947" frameHeight="578"/>
+</TextureAtlas>

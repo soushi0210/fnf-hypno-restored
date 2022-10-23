@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Ball_Idle_Normal"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "throw",
+			"indices": [],
+			"name": "Ball_Throw"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "break",
+			"indices": [],
+			"name": "Ball_Idle_Break01"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "break2",
+			"indices": [],
+			"name": "Ball_Idle_Break02"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "final burst",
+			"loop": false,
+			"name": "Ball_FinalBurst0"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/missingnopokeball_assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		128,
+		0,
+		128
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 3.1
+}

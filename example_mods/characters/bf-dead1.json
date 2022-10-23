@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				84,
+				180
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "GF_DIZZLE_OPENING instance 1000"
+		},
+		{
+			"offsets": [
+				76,
+				178
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "GF_DIZZLE_LOOP instance 100"
+		},
+		{
+			"offsets": [
+				124,
+				176
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "GF_WAKEUP instance 100"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/gf",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		50,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

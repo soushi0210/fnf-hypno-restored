@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1596,
+				721
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Perez-sen",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1596,
+				721
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Perez-sen0032",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1596,
+				721
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Perez-sen0032",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/perez_senkill",
+	"position": [
+		1580,
+		1220
+	],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		2710,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

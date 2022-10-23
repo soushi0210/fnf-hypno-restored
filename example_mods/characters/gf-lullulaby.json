@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "GF IDLE"
+		},
+		{
+			"offsets": [
+				10,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "GF DOWN NOTE"
+		},
+		{
+			"offsets": [
+				10,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "GF RIGHT NOTE"
+		},
+		{
+			"offsets": [
+				10,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "GF LEFT NOTE"
+		},
+		{
+			"offsets": [
+				10,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "GF UP NOTE"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/gf-lullulaby-pixel",
+	"position": [
+		-190,
+		360
+	],
+	"healthicon": "s",
+	"flip_x": false,
+	"healthbar_colors": [
+		122,
+		142,
+		156
+	],
+	"camera_position": [
+		-410,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 4.1
+}

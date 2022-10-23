@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Hypno2 Idle"
+		},
+		{
+			"offsets": [
+				203,
+				-135
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Hypno Right Finished"
+		},
+		{
+			"offsets": [
+				-315,
+				-326
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Hypno Down"
+		},
+		{
+			"offsets": [
+				-192,
+				125
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Hypno Up Finished"
+		},
+		{
+			"offsets": [
+				-393,
+				-92
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Hypno Left final"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gamble/hypno_shit",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-300,
+		210
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1.2
+}

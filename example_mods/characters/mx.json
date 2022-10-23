@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "MXIdle"
+		},
+		{
+			"offsets": [
+				296,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MXLeft"
+		},
+		{
+			"offsets": [
+				3,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MXDown"
+		},
+		{
+			"offsets": [
+				56,
+				219
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MXUp"
+		},
+		{
+			"offsets": [
+				-18,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MXRight"
+		},
+		{
+			"offsets": [
+				35,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hit1",
+			"indices": [],
+			"name": "MXHit1"
+		},
+		{
+			"offsets": [
+				66,
+				62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hit2",
+			"indices": [],
+			"name": "MXHit2"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gamble/mx_hypno_pussy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-30,
+		60
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 0.9
+}

@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "throw000"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ba-bf-throw",
+	"position": [
+		170,
+		520
+	],
+	"healthicon": "s",
+	"flip_x": true,
+	"healthbar_colors": [
+		122,
+		142,
+		156
+	],
+	"camera_position": [
+		50,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 4
+}

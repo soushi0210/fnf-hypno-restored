@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "buried_right000"
+		},
+		{
+			"offsets": [
+				10,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "buried_left000"
+		},
+		{
+			"offsets": [
+				10,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "buried_down000"
+		},
+		{
+			"offsets": [
+				10,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "buried_up000"
+		},
+		{
+			"offsets": [
+				10,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "intro",
+			"indices": [],
+			"name": "buried_scream00"
+		},
+		{
+			"offsets": [
+				10,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "a",
+			"indices": [],
+			"name": "buried_laugh00"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				10,
+				-20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "buried_ground000",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				10,
+				-20
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "buried_idle00",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/buriedalive_assets",
+	"position": [
+		-40,
+		200
+	],
+	"healthicon": "s",
+	"flip_x": false,
+	"healthbar_colors": [
+		122,
+		142,
+		156
+	],
+	"camera_position": [
+		-430,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 4.1
+}

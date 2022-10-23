@@ -1,0 +1,11 @@
+{	
+	"titlex":-15120,
+	"titley":-100,
+	"startx":100,
+	"starty":576,
+	"gfx":12,
+	"gfy":270,
+	"scaletitle":0.3,
+	"backgroundSprite":"StartScreen Hypno",
+	"bpm":102
+}

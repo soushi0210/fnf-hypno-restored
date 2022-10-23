@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-2
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GOLD IDLE00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				136,
+				14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GOLD LEFT POSE00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-81,
+				-71
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GOLD DOWN POSE00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				27
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GOLD UP POSE00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-21
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GOLD RIGHT POSE00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				19
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "GOLD LEFT POSE MISS00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-100
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "GOLD DOWN POSE MISS00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				-3
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "GOLD UP MISS00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-33
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "GOLD RIGHT POSE MISS000",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cold_Gold",
+	"position": [
+		60,
+		350
+	],
+	"healthicon": "cold-gold",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

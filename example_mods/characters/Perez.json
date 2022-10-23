@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				118,
+				60
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "gengar entrance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/enter_gengar",
+	"position": [
+		-70,
+		210
+	],
+	"healthicon": "s",
+	"flip_x": false,
+	"healthbar_colors": [
+		122,
+		142,
+		156
+	],
+	"camera_position": [
+		-430,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 3.9
+}

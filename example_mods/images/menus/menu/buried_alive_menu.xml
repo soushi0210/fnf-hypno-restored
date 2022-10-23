@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="buried alive menu.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Buried Alive menu instance 10000" x="0" y="0" width="528" height="635" frameX="-1" frameY="0" frameWidth="531" frameHeight="641"/>
+	<SubTexture name="Buried Alive menu instance 10001" x="0" y="0" width="528" height="635" frameX="-1" frameY="0" frameWidth="531" frameHeight="641"/>
+	<SubTexture name="Buried Alive menu instance 10002" x="0" y="0" width="528" height="635" frameX="-1" frameY="0" frameWidth="531" frameHeight="641"/>
+	<SubTexture name="Buried Alive menu instance 10003" x="578" y="0" width="531" height="635" frameX="0" frameY="-1" frameWidth="531" frameHeight="641"/>
+	<SubTexture name="Buried Alive menu instance 10004" x="578" y="0" width="531" height="635" frameX="0" frameY="-1" frameWidth="531" frameHeight="641"/>
+	<SubTexture name="Buried Alive menu instance 10005" x="578" y="0" width="531" height="635" frameX="0" frameY="-1" frameWidth="531" frameHeight="641"/>
+	<SubTexture name="Buried Alive menu instance 10006" x="1159" y="0" width="526" height="637" frameX="-2" frameY="-4" frameWidth="531" frameHeight="641"/>
+	<SubTexture name="Buried Alive menu instance 10007" x="1159" y="0" width="526" height="637" frameX="-2" frameY="-4" frameWidth="531" frameHeight="641"/>
+	<SubTexture name="Buried Alive menu instance 10008" x="1159" y="0" width="526" height="637" frameX="-2" frameY="-4" frameWidth="531" frameHeight="641"/>
+	<SubTexture name="Buried Alive menu instance 10009" x="0" y="687" width="528" height="638" frameX="0" frameY="-1" frameWidth="531" frameHeight="641"/>
+	<SubTexture name="Buried Alive menu instance 10010" x="0" y="687" width="528" height="638" frameX="0" frameY="-1" frameWidth="531" frameHeight="641"/>
+	<SubTexture name="Buried Alive menu instance 10011" x="0" y="687" width="528" height="638" frameX="0" frameY="-1" frameWidth="531" frameHeight="641"/>
+</TextureAtlas>

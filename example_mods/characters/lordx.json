@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "X IDLE"
+		},
+		{
+			"offsets": [
+				62,
+				11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "X LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "X DOWN"
+		},
+		{
+			"offsets": [
+				0,
+				53
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "X UP"
+		},
+		{
+			"offsets": [
+				-43,
+				247
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "X RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gamble/gamble_x",
+	"position": [
+		20,
+		0
+	],
+	"healthicon": "x",
+	"flip_x": true,
+	"healthbar_colors": [
+		120,
+		119,
+		176
+	],
+	"camera_position": [
+		50,
+		-70
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1.5
+}

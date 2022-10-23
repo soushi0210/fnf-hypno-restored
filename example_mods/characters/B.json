@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				310,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Feralisleep instance 100"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Feralisleep",
+	"position": [
+		-40,
+		50
+	],
+	"healthicon": "s",
+	"flip_x": false,
+	"healthbar_colors": [
+		122,
+		142,
+		156
+	],
+	"camera_position": [
+		430,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 0.899999999999997
+}

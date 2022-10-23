@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Muk_Intro00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-20
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Muk_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Muk_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Muk_Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Muk_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Muk_Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-20
+			],
+			"anim": "hentai",
+			"fps": 24,
+			"name": "Muk_Puke0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/leanmonster",
+	"position": [
+		-190,
+		360
+	],
+	"healthicon": "s",
+	"flip_x": false,
+	"healthbar_colors": [
+		122,
+		142,
+		156
+	],
+	"camera_position": [
+		-410,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 4.1
+}

@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				83,
+				178
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Retry instance 10",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				83,
+				178
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Retry instance 10",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				83,
+				178
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Retry instance 10",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bygone-retry",
+	"position": [
+		670,
+		410
+	],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		370,
+		-350
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}
